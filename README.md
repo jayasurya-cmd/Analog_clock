@@ -43,8 +43,13 @@ This project can be completed in a few hours or days, depending on your experien
 Project Resources:
 
 Mozilla Developer Network (MDN) HTML documentation: https://developer.mozilla.org/en-US/docs/Web/HTML
+
 MDN CSS documentation: https://developer.mozilla.org/en-US/docs/Web/CSS
+
 MDN JavaScript documentation: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
 W3Schools HTML tutorial: https://www.w3schools.com/html/
+
 W3Schools CSS tutorial: https://www.w3schools.com/css/
+
 W3Schools JavaScript tutorial: https://www.w3schools.com/js/
